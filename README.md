@@ -1,2 +1,2 @@
 # mysnippets
-my util code snippets
+my snippets
